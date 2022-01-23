@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_add_group.xml" value="0.33" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_calculate_transactions.xml" value="0.22" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_change_balance.xml" value="0.33" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_create_group.xml" value="0.33" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_group.xml" value="0.25" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_login1.xml" value="0.4" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/attrib_row.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/content_add_group.xml" value="0.25" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/content_login.xml" value="7.2" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/group_users_view_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kacpe/AndroidStudioProjects/MoneyManagementApp/app/src/main/res/layout/list_view_row.xml" value="0.2140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

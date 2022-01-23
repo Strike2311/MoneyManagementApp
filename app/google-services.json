@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169844392825",
+    "project_id": "moneymanagementapp-fabf8",
+    "storage_bucket": "moneymanagementapp-fabf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169844392825:android:3ddfdf0d9d0f330c08e5a8",
+        "android_client_info": {
+          "package_name": "com.kacpkuch.moneymanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169844392825-rnr22elignu5t4d2msl7sp4eruuql89s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGZVOncSMCC7oDEmAx0nI0vckVu56S8qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169844392825-rnr22elignu5t4d2msl7sp4eruuql89s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
